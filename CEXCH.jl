@@ -1,5 +1,6 @@
 # Coordinate Exchange Algorithm
 # Will Gullion
+# Date:12/5/2021
 ####################################################
  using Distributions
 
